@@ -65,3 +65,11 @@ Choices made using the Launch Instance Wizard:
  7. Tags
  8. Security group
  9. Key pair
+
+ ## Amazon EC2 cost optimization
+
+ ## Container services
+
+ ## Introduction to AWS Lambda
+
+ ## Introduction to AWS Elastic Beanstalk
