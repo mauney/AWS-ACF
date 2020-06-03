@@ -33,3 +33,14 @@ More attributes of Amazon DynamoDB
  - Has no limits on table size or throughput.
 
 ## Amazon Redshift
+ - Fast, fully managed data warehouse service
+ - Easily scale with no downtime
+ - Columnar storage and parallel processing architectures
+ - Automatically and continuously monitors cluster
+ - Encryption is built in
+
+## Amazon Aurora
+ - Enterprise-class relational database
+ - Compatible with MySQL or PostgreSQL
+ - Automate time-consuming tasks (such as provisioning, patching, backup, recovery, failure detection, and repair).
+ 
